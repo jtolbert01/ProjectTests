@@ -12,7 +12,7 @@ import org.json.simple.parser.JSONParser;
 
 public class ConcertLoader {
     
-    public static final String CONCERT_FILE = "CineMore/src/cinemorepract/Concerts.json";
+    public static final String CONCERT_FILE = "src/cinemorepract/Concerts.json";
     
     public static ArrayList<Concert> loadConcerts() {
         

@@ -12,7 +12,7 @@ import org.json.simple.parser.JSONParser;
 
 public class UserLoader {
     
-    public static final String USER_FILE = "CineMore/src/cinemorepract/Users.json";
+    public static final String USER_FILE = "src/cinemorepract/Users.json";
     
     public static ArrayList<User> loadUsers() {
         ArrayList<User> userList = new ArrayList<>();
